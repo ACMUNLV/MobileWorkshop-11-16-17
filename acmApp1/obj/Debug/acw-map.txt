@@ -1,0 +1,4 @@
+acmApp1.MainActivity, acmApp1;md57517b850e6673f01c76b21c4067c9ab1.MainActivity
+acmApp1.MainActivity, acmApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57517b850e6673f01c76b21c4067c9ab1.MainActivity
+acmApp1.MainActivity;md57517b850e6673f01c76b21c4067c9ab1.MainActivity
+acmapp1.MainActivity;md57517b850e6673f01c76b21c4067c9ab1.MainActivity
